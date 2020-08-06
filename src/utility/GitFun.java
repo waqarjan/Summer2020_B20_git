@@ -8,6 +8,8 @@ public class GitFun {
 //how much funn do we have? alot some says....
 
         //i am committing alot of changes today
+        
+        //change and change makes it fun
 
     }
 }
